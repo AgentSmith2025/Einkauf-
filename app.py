@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # 🔹 Конфигурация
 VERIFY_TOKEN = "my_secure_token_123"  # Подставь свое значение
-ACCESS_TOKEN = "EAAUHReb5GqEBO784Q5iEZAuqp0pj7fZAEWqT7YTzmuJNs3BsOIB8aH087ijbNp8gr60ywYnlnLZCHYBvVw4S1Ke9FYlfuavfQxyxfWgPxAmjZBSaBOkjbsGEp4ZA6aV1eSMgbbXJOHJqeQq4d51pvTArNoEQTBAAl0uYGK5tTtfFBExJFXvc53M13N97UJsVXDDd0StF7okpf7BNnKmg9cYCV"  # Подставь свой реальный токен
+ACCESS_TOKEN = "EAAUHReb5GqEBO8CzBUBuaZARvY3zZAMTqbmKmrQXtDMuSJLohvM4FEJKqPCmcM2oH6KLysMiXHgUXMzX0SibwO3124qTymY4lHJIEdVayhOxDZAODMzpcs8tkfNFG43vC8CJZAPtGPSYFwlbZA29ZBhZAZA089nCTxk90oGHtx52HPg0sTFLeWUMMNoQOdZAjqkOj63nE1RZAuoAkTCj1eZB9fHgwG0"  # Подставь свой реальный токен
 PHONE_NUMBER_ID = "581240415068867"  # ID номера из Meta
 WHATSAPP_NUMBER = "+15551505668"  # Твой тестовый номер в WhatsApp
 
